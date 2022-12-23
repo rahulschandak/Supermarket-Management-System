@@ -1,5 +1,5 @@
 # Supermarket-Management-System
-This project was created to design a desktop-based prototype application which will simulate a Supermarket management system.
+This project was created to design a desktop-based prototype application which will simulate a Supermarket management system. Tools used were Java Swing for GUI, MySQL for database and JDBC driver for integration.
 
 The application will involve various functionalities which a consumer as well as an administrator/ employee can use and benefit from. 
 1. For the consumer, they will be able to create their own account in which they can create a new order by buying from a list of predefined items, update their existing orders, view their order history, and view a specific order they had placed in the past.
