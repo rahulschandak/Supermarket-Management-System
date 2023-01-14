@@ -11,4 +11,8 @@ The UML of the database:
 
 <img src=https://user-images.githubusercontent.com/118782915/209239126-06a03c2c-a301-45bf-a96f-321bcc2e3b61.png width=60% height=60%>
 
-Refer the `images` directory to get a glimse of the GUI. The source code has been kept private. Please contact me on linkedin (https://www.linkedin.com/in/rahulschandak/) if you want to refer the source code.
+Refer the `images` directory to get a glimse of the GUI.
+
+Note: To follow the university's academic integrity policy, the source code has been kept private. If any details/ doubts pertaining to the project is required I request you to please ping me on LinkedIn.
+
+https://www.linkedin.com/in/rahulschandak/
